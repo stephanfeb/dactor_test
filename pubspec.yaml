@@ -1,0 +1,14 @@
+name: dactor_test
+description: Test utilities for the Dactor actor system - TestActorSystem and TestProbe
+version: 1.0.0
+repository: https://github.com/stephanfeb/dactor_test
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  dactor: ^1.2.0
+  test: ^1.24.0
+
+dev_dependencies:
+  lints: ^4.0.0
